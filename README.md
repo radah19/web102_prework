@@ -24,14 +24,9 @@ Nothing :(
 
 Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/1cS7EsBQPV0VtYbKffzb_hkxNuPlwPNl-/view' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://drive.google.com/file/d/1cS7EsBQPV0VtYbKffzb_hkxNuPlwPNl-/view' title='Video Walkthrough' width='' alt='https://drive.google.com/file/d/1cS7EsBQPV0VtYbKffzb_hkxNuPlwPNl-/view' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with ScreenToGif
 
 ## Notes
 
