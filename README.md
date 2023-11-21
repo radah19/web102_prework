@@ -24,7 +24,7 @@ Nothing :(
 
 Here's a walkthrough of implemented features:
 
-<img src='https://media.giphy.com/media/KjlJDCoBdJtnNOJFHo/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/K8mqCZZ.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif
 
