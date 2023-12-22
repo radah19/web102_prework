@@ -23,7 +23,8 @@ Nothing :(
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<img src='https://media.giphy.com/media/JQWXKICweCQs1XqOR5/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<iframe src="https://i.imgur.com/bvdOS3v.gif" referrerpolicy="same-origin" />
 
 GIF created with ScreenToGif
 
