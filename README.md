@@ -24,7 +24,9 @@ Nothing :(
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/bvdOS3v.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' referrerpolicy="no-refferer" /> 
+update 22
+
+<img src='https://i.imgur.com/bvdOS3v.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' referrerpolicy="no-referrer" /> 
 
 GIF created with ScreenToGif
 
