@@ -24,7 +24,7 @@ Nothing :(
 
 Here's a walkthrough of implemented features:
 
-<iframe src="https://i.imgur.com/bvdOS3v.gif" referrerpolicy="same-origin" />
+<img src='https://i.imgur.com/bvdOS3v.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' referrerpolicy="same-origin" /> 
 
 GIF created with ScreenToGif
 
