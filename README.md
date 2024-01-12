@@ -26,6 +26,8 @@ Here's a walkthrough of implemented features:
 
 update 22
 
+https://i.imgur.com/hvH6ogf.gif
+
 <img src='https://imgur.com/DKzeqHZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' referrerpolicy="unsafe-url" /> 
 
 GIF created with ScreenToGif
