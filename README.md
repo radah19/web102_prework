@@ -28,7 +28,7 @@ update 22
 
 https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXc3cWZidDg0bGozMDBwcnhrZzcwaHR5a2ZmMjR6NDVlaDlwdGZmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9v8dyUOqkdk6rZjkbR/giphy-downsized.gif 
 
-<img src='[https://media1.giphy.com/media/9v8dyUOqkdk6rZjkbR/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXc3cWZidDg0bGozMDBwcnhrZzcwaHR5a2ZmMjR6NDVlaDlwdGZmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9v8dyUOqkdk6rZjkbR/giphy-downsized.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' referrerpolicy="unsafe-url" /> 
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXc3cWZidDg0bGozMDBwcnhrZzcwaHR5a2ZmMjR6NDVlaDlwdGZmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9v8dyUOqkdk6rZjkbR/giphy-downsized.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' referrerpolicy="unsafe-url" /> 
 
 GIF created with ScreenToGif
 
