@@ -28,7 +28,7 @@ update 22
 
 https://i.imgur.com/hvH6ogf.gif
 
-<img src='https://imgur.com/DKzeqHZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' referrerpolicy="unsafe-url" /> 
+<img src='https://i.imgur.com/zbA1sBj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' referrerpolicy="unsafe-url" /> 
 
 GIF created with ScreenToGif
 
