@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 
 update 22
 
-https://i.imgur.com/hvH6ogf.gif
+[https://i.imgur.com/hvH6ogf.gif](https://media1.giphy.com/media/9v8dyUOqkdk6rZjkbR/giphy.gif)
 
 <img src='https://media1.giphy.com/media/9v8dyUOqkdk6rZjkbR/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' referrerpolicy="unsafe-url" /> 
 
