@@ -24,9 +24,7 @@ Nothing :(
 
 Here's a walkthrough of implemented features:
 
-update 22
-
-![](https://i.imgur.com/ex5xs1U.gif)
+<blockquote class="imgur-embed-pub" lang="en" data-id="ex5xs1U" data-context="false" ><a href="//imgur.com/ex5xs1U"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with ScreenToGif
 
