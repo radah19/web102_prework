@@ -23,9 +23,8 @@ Nothing :(
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
+bruhbruh
 <blockquote class="imgur-embed-pub" lang="en" data-id="ex5xs1U" data-context="false" ><a href="//imgur.com/ex5xs1U"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 GIF created with ScreenToGif
 
 ## Notes
