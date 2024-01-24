@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 
 update 22
 
-![](https://imgur.com/ex5xs1U.gif)
+![](https://i.imgur.com/ex5xs1U.gif)
 
 GIF created with ScreenToGif
 
