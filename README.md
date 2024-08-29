@@ -24,7 +24,7 @@ Nothing :(
 
 Here's a walkthrough of implemented features:
 bruhbruh
-![ahsbdb](https://github.com/user-attachments/assets/5d0fd0f9-7a57-4c88-9a18-e5333d11f56c)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/dTVXhEU"  ><a href="//imgur.com/a/dTVXhEU">walkthrough</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Notes
 
