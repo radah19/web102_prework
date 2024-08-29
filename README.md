@@ -26,6 +26,7 @@ Here's a walkthrough of implemented features:
 bruhbruh
 <blockquote class="imgur-embed-pub" lang="en" data-id="ex5xs1U" data-context="false" ><a href="//imgur.com/ex5xs1U"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 GIF created with ScreenToGif
+![ahsbdb](https://github.com/user-attachments/assets/5d0fd0f9-7a57-4c88-9a18-e5333d11f56c)
 
 ## Notes
 
